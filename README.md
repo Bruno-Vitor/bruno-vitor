@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Bruno Corrêa 👋<br><br>
 - 🔭 Hoje trabalho com front-end<br> 
-- 🌱 Estudando React JS
+- 🌱 Estudando React JS e WordPress
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-vitor-correa/) 
