@@ -1,5 +1,5 @@
 ## Olá! Eu sou o Bruno Corrêa 👋<br><br>
-- 🔭 Hoje trabalho com front-end<br> 
+- 🔭 Hoje trabalho com Front-End<br> 
 - 🌱 Estudando React JS e WordPress
 
 ## 🌐 Socials:
