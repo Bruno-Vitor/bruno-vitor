@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Bruno Corrêa 👋<br><br>
 - 🔭 Hoje trabalho com Desenvolvimento de Software<br> 
-- 🌱 Estudando Vue.js, PHP e SQL
+- 🌱 Estudando Vue.js, PHP e MySQL
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-vitor-correa/) 
