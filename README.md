@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Bruno Corrêa 👋<br><br>
-- 🔭 Hoje trabalho com Desenvolvimento de Software<br> 
-- 🌱 Estudando Vue.js, PHP e MySQL
+- 🔭 Hoje trabalho como Full Stack Developer jr<br> 
+- 🌱 Estudando C#, React e SQL
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-vitor-correa/) 
